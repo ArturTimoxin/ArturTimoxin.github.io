@@ -1,0 +1,18 @@
+{
+	"applinks":{
+	   "details":[
+		  {
+			 "appIDs":[
+				"59QZW53K78.com.hallmark.ce.dev",
+				"59QZW53K78.com.hallmark.ce.stag",
+				"59QZW53K78.com.hallmark.kaarten.nl"
+			 ],
+			 "components":[
+				{
+					"/": "*"
+				}
+			 ]
+		  }
+	   ]
+	}
+ }
