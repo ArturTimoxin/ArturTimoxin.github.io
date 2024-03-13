@@ -1,18 +1,18 @@
 {
-	"applinks":{
-	   "details":[
-		  {
-			 "appIDs":[
-				"59QZW53K78.com.hallmark.ce.dev",
-				"59QZW53K78.com.hallmark.ce.stag",
-				"59QZW53K78.com.hallmark.kaarten.nl"
-			 ],
-			 "components":[
-				{
-					"/": "*"
-				}
-			 ]
-		  }
-	   ]
+	"applinks": {
+	  "details": [
+		{
+		  "appIDs": [
+			"59QZW53K78.com.hallmark.ce.dev",
+			"59QZW53K78.com.hallmark.ce.staging",
+			"59QZW53K78.com.hallmark.kaarten.nl"
+		  ],
+		  "components": [
+			{
+			  "/": "/on/demandware.store/*/*/Account-Confirmation"
+			}
+		  ]
+		}
+	  ]
 	}
- }
+  }
